@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Nsp Oec Training Chapter 33 - NSP_OEC_Training_Chapter_33
-NSP_OEC_Training_Chapter_33
+# Nsp Oec Training Chapter 33 - National Ski Patrol - Outdoor Emergency Care chapter 33
+National Ski Patrol - Outdoor Emergency Care chapter 33
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Nsp Oec Training Chapter 33** - an example for your projects
 
-NSP_OEC_Training_Chapter_33
+National Ski Patrol - Outdoor Emergency Care chapter 33
 
 ![Image image_filename](sample.png)
 
